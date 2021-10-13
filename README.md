@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/26482737/137117758-65d5527a-ee83-42b4-b364-59fec066bede.png"  />
+  <img src="https://user-images.githubusercontent.com/26482737/137118150-186a6f63-ee47-44eb-a8f4-0fc4cec101ba.png"  />
 </p>
-
 
 #### About me
 - [简书](https://www.jianshu.com/u/3ff32f5aea98)
