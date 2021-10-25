@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/26482737/137118150-186a6f63-ee47-44eb-a8f4-0fc4cec101ba.png"  />
+  <img src="https://user-images.githubusercontent.com/26482737/138635872-0178fd64-e40b-4d06-afc3-f4b3d1d2feef.png"  />
 </p>
-
 #### About me
 - [简书](https://www.jianshu.com/u/3ff32f5aea98)
 - [Github](https://github.com/Peakmain)
