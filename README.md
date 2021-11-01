@@ -8,5 +8,4 @@
 - [Github](https://github.com/Peakmain)
 
 [![Peakmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakmain&hide=contribs&theme=merko&show_icons=true)](https://github.com/peakmain)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Peakmain&layout=compact&theme=merko)](https://github.com/peakmain)
 >***会有始料不及的运气 会有突如其来的欢喜 一切都会刚刚好 不多不少😊***
