@@ -5,7 +5,6 @@
 #### About me
 
 - [简书](https://www.jianshu.com/u/3ff32f5aea98)
-- [Github](https://github.com/Peakmain)
 - [掘金](https://juejin.cn/user/175532853176152)
 
 [![Peakmain's GitHub stats](https://github-readme-stats.vercel.app/api?username=Peakmain&hide=contribs&theme=merko&show_icons=true)](https://github.com/peakmain)
